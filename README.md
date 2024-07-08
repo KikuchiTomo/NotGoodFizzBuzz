@@ -25,7 +25,7 @@ Because installing a simple FizzBuzz program should be as arduous as possible.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/NotGoodFizzBuzz.git
+   git clone https://github.com/KikuchiTomo/NotGoodFizzBuzz.git
    cd NotGoodFizzBuzz
    ```
 
