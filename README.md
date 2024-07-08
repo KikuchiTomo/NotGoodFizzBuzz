@@ -17,6 +17,8 @@ But why solve a problem in a few lines of code when you can create an entire pro
 
 - **Over-Engineering**: We've taken a problem that can be solved in 5 lines of code and expanded it into a full-blown project with multiple files and directories.
 - **Unnecessary Complexity**: Enjoy deciphering a codebase that's more complex than it needs to be. You'll find a Makefile, header files, and even a LICENSE because why not?
+- **Pointer Pandemonium**: We use `new` and `delete` recklessly. If you love dealing with pointers and memory management, you're in for a treat!
+- **Concurrency Chaos**: Because single-threaded FizzBuzz is too mainstream. Our implementation dabbles with parallel processing, introducing all the fun of race conditions and deadlocks.
 - **Educational Value**: Learn how not to write simple programs. Perfect for those who want to turn straightforward tasks into complicated endeavors.
 
 ## Installation
@@ -61,4 +63,10 @@ This project is licensed under the MIT License because even jokes need legal pro
 - **FizzBuzz is simple. This is not.**
 - **If you think this is a serious project, you're missing the point.**
 - **It's a testament to what happens when you have too much time on your hands.**
+- **Memory management is an adventure with `new` and `delete` used abundantly.**
+- **Experience the thrill of handling pointers like never before.**
+- **Parallel processing in FizzBuzz? Why not! Beware of the concurrency chaos.**
 
+---
+
+Enjoy the madness of NotGoodFizzBuzz! Remember, if your FizzBuzz implementation isn't this complex, you're probably doing it right.
