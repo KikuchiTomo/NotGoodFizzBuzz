@@ -29,11 +29,23 @@ Because installing a simple FizzBuzz program should be as arduous as possible.
    ```sh
    git clone https://github.com/KikuchiTomo/NotGoodFizzBuzz.git
    cd NotGoodFizzBuzz
+   cd -
+   cd NotGoodFizzBuzz
+   cd src
+   cd ..
+   cd ..
+   cd NotGoodFizzBuzz
+   cd include
+   cat LICENSE # You should check the LICENSE.
+   cd ..   
    ```
 
 2. Build the project:
+   Anyway, it is important to spend time in luxury!
    ```sh
-   make 
+   make -n > make.sh
+   chmod +x make.sh
+   ./make.sh   
    ```
 
 ## Usage
